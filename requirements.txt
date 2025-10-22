@@ -5,6 +5,7 @@ asyncio
 bing_image_downloader
 bs4
 deepai
+dnspython
 edge-tts
 ffmpeg-python
 future
@@ -12,6 +13,7 @@ gitpython
 google-api-python-client
 gpytranslate
 gtts
+hachoir
 heroku3
 httpx[http2]==0.28.1
 kurigram==2.2.13
