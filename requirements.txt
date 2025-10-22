@@ -15,7 +15,7 @@ gpytranslate==1.5.1
 gtts
 hachoir
 heroku3
-httpx[http2]==0.27.2
+httpx[http2]>=0.27.2
 kurigram==2.2.13
 lexica-api
 motor
@@ -43,4 +43,4 @@ tgcrypto
 unidecode
 wget
 yt-dlp==2025.10.14
-py-yt-search
+youtube-search-python
