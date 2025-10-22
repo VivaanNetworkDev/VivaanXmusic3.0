@@ -15,7 +15,7 @@ gpytranslate==1.5.1
 gtts
 hachoir
 heroku3
-httpx[http2]==0.28.1
+httpx[http2]
 kurigram==2.2.13
 lexica-api
 motor
