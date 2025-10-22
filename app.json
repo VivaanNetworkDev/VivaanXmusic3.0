@@ -66,6 +66,16 @@
       "required": false,
       "value": ""
     },
+    "VIDEO_API_URL": {
+      "description": "API URL for YouTube video endpoint",
+      "required": false,
+      "value": "https://api.video.thequickearn.xyz"
+    },
+    "API_KEY": {
+      "description": "API key for QuickEarn API (get from https://panel.thequickearn.xyz)",
+      "required": false,
+      "value": ""
+
     "HEROKU_API_KEY": {
       "description": "Your Heroku account API key, required if you want the bot to support auto-updates or dynamic deployments.",
       "required": false,
