@@ -32,6 +32,7 @@ pyfiglet
 pyshorteners
 python-dotenv
 python-whois
+py-yt-search
 pyyaml
 qrcode
 requests
