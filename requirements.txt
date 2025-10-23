@@ -10,7 +10,7 @@ ffmpeg-python
 future
 gitpython
 google-api-python-client
-gpytranslate==2.0.0
+gpytranslate
 gtts
 hachoir
 heroku3
