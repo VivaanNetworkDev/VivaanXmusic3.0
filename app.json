@@ -57,7 +57,12 @@
       "value": "",
       "required": false
     },
-    "HEROKU_API_KEY": {
+    "API_KEY": {
+      "description": "youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz",
+      "value": "",
+      "required": true
+    },
+      "HEROKU_API_KEY": {
       "description": "Your Heroku account's API key",
       "value": "",
       "required": false
