@@ -66,14 +66,14 @@
       "required": false,
       "value": ""
     },
-    "VIDEO_API_URL": {
-      "description": "API URL for YouTube video endpoint",
-      "required": false,
-      "value": "https://api.video.thequickearn.xyz"
+    "YTPROXY_URL": {
+      "description": "YT Proxy Server Endpoint",
+      "required": true,
+      "value": "https://tgapi.xbitcode.com"
     },
-    "VIDEO_API_KEY": {
-      "description": "API key for QuickEarn API (get from https://panel.thequickearn.xyz)",
-      "required": false,
+    "YT_API_KEY": {
+      "description": "YT Proxy API KEY",
+      "required": true,
       "value": ""
     },
     "HEROKU_API_KEY": {
