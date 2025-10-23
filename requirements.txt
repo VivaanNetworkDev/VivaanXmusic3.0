@@ -1,8 +1,7 @@
 aiofiles
 aiohttp
 apscheduler
-asyncio
-bing_image_downloader
+beautifulsoup4
 bs4
 deepai
 dnspython
@@ -15,7 +14,7 @@ gpytranslate==2.0.0
 gtts
 hachoir
 heroku3
-httpx[http2]==0.27.2
+httpx[http2]>=0.28.0,<0.29.0
 kurigram==2.2.13
 lexica-api
 motor
